@@ -1,0 +1,14 @@
+C:\Users\Kaif Imteyaz\Desktop\DESKTOP\VS Studio\Resume Builder\bin\Debug\Resume Builder.exe.config
+C:\Users\Kaif Imteyaz\Desktop\DESKTOP\VS Studio\Resume Builder\bin\Debug\Resume Builder.exe
+C:\Users\Kaif Imteyaz\Desktop\DESKTOP\VS Studio\Resume Builder\bin\Debug\Resume Builder.pdb
+C:\Users\Kaif Imteyaz\Desktop\DESKTOP\VS Studio\Resume Builder\bin\Debug\Resume Builder.xml
+C:\Users\Kaif Imteyaz\Desktop\DESKTOP\VS Studio\Resume Builder\obj\Debug\Resume Builder.vbproj.AssemblyReference.cache
+C:\Users\Kaif Imteyaz\Desktop\DESKTOP\VS Studio\Resume Builder\obj\Debug\Resume Builder.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Kaif Imteyaz\Desktop\DESKTOP\VS Studio\Resume Builder\obj\Debug\Resume_Builder.Form1.resources
+C:\Users\Kaif Imteyaz\Desktop\DESKTOP\VS Studio\Resume Builder\obj\Debug\Resume_Builder.Resources.resources
+C:\Users\Kaif Imteyaz\Desktop\DESKTOP\VS Studio\Resume Builder\obj\Debug\Resume Builder.vbproj.GenerateResource.cache
+C:\Users\Kaif Imteyaz\Desktop\DESKTOP\VS Studio\Resume Builder\obj\Debug\Resume Builder.vbproj.CoreCompileInputs.cache
+C:\Users\Kaif Imteyaz\Desktop\DESKTOP\VS Studio\Resume Builder\obj\Debug\Resume Builder.exe
+C:\Users\Kaif Imteyaz\Desktop\DESKTOP\VS Studio\Resume Builder\obj\Debug\Resume Builder.xml
+C:\Users\Kaif Imteyaz\Desktop\DESKTOP\VS Studio\Resume Builder\obj\Debug\Resume Builder.pdb
+C:\Users\Kaif Imteyaz\Desktop\DESKTOP\VS Studio\Resume Builder\obj\Debug\Resume_Builder.Form2.resources

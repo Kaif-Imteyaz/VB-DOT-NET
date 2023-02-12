@@ -1,0 +1,17 @@
+C:\Users\Kaif Imteyaz\Desktop\DESKTOP\VS Studio\Calc\bin\Debug\Calc.exe.config
+C:\Users\Kaif Imteyaz\Desktop\DESKTOP\VS Studio\Calc\bin\Debug\Calc.exe
+C:\Users\Kaif Imteyaz\Desktop\DESKTOP\VS Studio\Calc\bin\Debug\Calc.pdb
+C:\Users\Kaif Imteyaz\Desktop\DESKTOP\VS Studio\Calc\bin\Debug\Calc.xml
+C:\Users\Kaif Imteyaz\Desktop\DESKTOP\VS Studio\Calc\obj\Debug\Calc.vbproj.AssemblyReference.cache
+C:\Users\Kaif Imteyaz\Desktop\DESKTOP\VS Studio\Calc\obj\Debug\Calc.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Kaif Imteyaz\Desktop\DESKTOP\VS Studio\Calc\obj\Debug\Calc.Form1.resources
+C:\Users\Kaif Imteyaz\Desktop\DESKTOP\VS Studio\Calc\obj\Debug\Calc.Resources.resources
+C:\Users\Kaif Imteyaz\Desktop\DESKTOP\VS Studio\Calc\obj\Debug\Calc.vbproj.GenerateResource.cache
+C:\Users\Kaif Imteyaz\Desktop\DESKTOP\VS Studio\Calc\obj\Debug\Calc.vbproj.CoreCompileInputs.cache
+C:\Users\Kaif Imteyaz\Desktop\DESKTOP\VS Studio\Calc\obj\Debug\Calc.exe
+C:\Users\Kaif Imteyaz\Desktop\DESKTOP\VS Studio\Calc\obj\Debug\Calc.xml
+C:\Users\Kaif Imteyaz\Desktop\DESKTOP\VS Studio\Calc\obj\Debug\Calc.pdb
+C:\Users\Kaif Imteyaz\Desktop\DESKTOP\VS Studio\Calc\bin\Debug\Calc.exe.manifest
+C:\Users\Kaif Imteyaz\Desktop\DESKTOP\VS Studio\Calc\bin\Debug\Calc.application
+C:\Users\Kaif Imteyaz\Desktop\DESKTOP\VS Studio\Calc\obj\Debug\Calc.exe.manifest
+C:\Users\Kaif Imteyaz\Desktop\DESKTOP\VS Studio\Calc\obj\Debug\Calc.application
